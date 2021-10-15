@@ -2,7 +2,7 @@
 
 In this repository we try to attach some python examples for controlling the National Instruments (NI) myDAQ.
 
-every script uses the <<import nidaqmx.system>> at the begging 
+every script uses the "import nidaqmx.system" at the begging 
 
 The nidaqmx package contains an API (Application Programming Interface) for interacting with the NI-DAQmx driver. 
 The package is implemented in Python and it was created and is supported by NI. 
